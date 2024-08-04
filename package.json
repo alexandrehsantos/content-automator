@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "algorithmia": "^0.3.10",
+    "axios": "^1.7.3",
     "readline-sync": "^1.4.10"
   }
 }
