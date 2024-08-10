@@ -9,8 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "algorithmia": "^0.3.10",
     "axios": "^1.7.3",
+=======
+<<<<<<< Updated upstream
+>>>>>>> main
     "readline-sync": "^1.4.10"
+=======
+    "algorithmia": "^0.3.10",
+    "axios": "^1.7.3",
+    "openai": "^4.55.4",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.19"
+>>>>>>> Stashed changes
   }
 }
